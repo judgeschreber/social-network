@@ -10,3 +10,9 @@ A social network built with React. Features include registration, login, passwor
 **_Change profile picture_**
 
 <img src="client/public/SN_new_photo.gif">
+
+**_Find friends_**
+
+<img src="client/public/SN_find_new_people.gif">
+
+
