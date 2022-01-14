@@ -3,4 +3,4 @@ A social network built with React. Features include registration, login, passwor
 
 **_Preview_**
 
-<img src="public/animation_1.gif">
+<img src="client/public/animation_1.gif">
